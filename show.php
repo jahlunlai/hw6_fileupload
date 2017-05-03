@@ -22,8 +22,6 @@
 
       ?> 
 
-      <input type="hidden" name="number" value=<?php $i; ?>> 
-
       <input type="submit" value="送出"> 
    </form> 
 </body> 
